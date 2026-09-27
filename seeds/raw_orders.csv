@@ -1,0 +1,5 @@
+order_id,customer_id,order_status,order_date,region,updated_at
+1,101,paid,2026-01-01,US,2026-01-01
+2,102,paid,2026-01-01,EU,2026-01-01
+3,101,paid,2026-01-02,US,2026-01-02
+4,103,pending,2026-01-02,APAC,2026-01-02

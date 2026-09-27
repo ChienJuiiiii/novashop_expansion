@@ -1,0 +1,4 @@
+customer_id,customer_email,country,customer_segment,updated_at
+101,a@example.com,US,consumer,2026-01-01
+102,b@example.com,DE,consumer,2026-01-01
+103,c@example.com,JP,business,2026-01-01
